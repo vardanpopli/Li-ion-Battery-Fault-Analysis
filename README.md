@@ -2,7 +2,8 @@
 - For Compact Overview please Check [Project_Poster](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Work_images/Poster_SPARK_2024.pdf)
 
 # Project Summary
-***Title: Li-ion-Battery-Fault-Analysis-Using_Deep_Learning***\n
+***Title: Li-ion-Battery-Fault-Analysis-Using_Deep_Learning***
+
 In this project, I focused on the fault analysis of lithium-ion batteries using a novel deep-learning approach. Initially, I familiarized myself with the concepts of State of Health (SoH)
 and State of Charge (SoC), understanding what constitutes battery faults, how to measure
 them, and the various types of faults. I also reviewed several research papers to build a
