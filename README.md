@@ -4,8 +4,8 @@
 # Project Summary
 ***Title: Li-ion-Battery-Fault-Analysis-Using_Deep_Learning***
 
-In this project, I focused on the fault analysis of lithium-ion batteries using a novel deep-learning approach. Initially, I familiarized myself with the concepts of State of Health (***SoH***)
-and State of Charge (***SoC***), understanding what constitutes battery faults, how to measure
+In this project, I focused on the fault analysis of lithium-ion batteries using a novel deep-learning approach. Initially, I familiarized myself with the concepts of ***State of Health (SoH)***
+and ***State of Charge (SoC)***, understanding what constitutes battery faults, how to measure
 them, and the various types of faults. I also reviewed several research papers to build a
 comprehensive knowledge base. Subsequently, I delved into the degradation mechanisms of lithium-ion batteries, identifying
 the physical parameters necessary to measure these degradations. This foundational
