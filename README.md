@@ -23,3 +23,10 @@ prediction for each discharge cycle. This project demonstrates the effectiveness
 safer and more efficient battery management systems in electric vehicles. **Future Reference:** Generalized model for various power cycles, Predicting SoH after set
 training cycles & Doing prediction for complete pack Dynamics considering environmental
 factors.
+
+# Jupyter_Notebook
+This Session Consists of Four Notebooks
+- [Li_ion_Cell_EDA_and_model](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Jupyter_Notebook/Li_ion_Cell_EDA_and_model.ipynb) has LSTM model Trained on Li-ion time-series Battery Parameters (Temperature, current and Voltage) to Predict State-of-Health of the battery with Discharging Cycles
+- [LSTM_Model_Using_Na+_data](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Jupyter_Notebook/LSTM_Model_Using_Na%2B_data.ipynb) has the LSTM model Trained on sodium coin cell data (Prepared and Generated in Energy Storage Laboratory, IIT ROORKEE)
+- [Data_Analysis_for NASA_Battery_Dataset](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Jupyter_Notebook/Data_Analysis_for%20NASA_Battery_Dataset.ipynb) This notebook has practice EDA performed on Existing universal Dataset Prepared by NASA on Li-ion Battery 18650 cell
+- [Na+_cell_EDA](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Jupyter_Notebook/Na%2B_cell_EDA.ipynb) This notebook as the EDA performed over Na+ coin cell Data using ***NMC*** composition.
