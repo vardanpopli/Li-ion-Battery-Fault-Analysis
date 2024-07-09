@@ -25,7 +25,7 @@ training cycles & Doing prediction for complete pack Dynamics considering enviro
 factors.
 
 # Jupyter_Notebook
-This Session Consists of Four Notebooks
+This Section Consists of Four Notebooks
 - [Li_ion_Cell_EDA_and_model](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Jupyter_Notebook/Li_ion_Cell_EDA_and_model.ipynb) has LSTM model Trained on Li-ion time-series Battery Parameters (Temperature, current and Voltage) to Predict State-of-Health of the battery with Discharging Cycles
 - [LSTM_Model_Using_Na+_data](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Jupyter_Notebook/LSTM_Model_Using_Na%2B_data.ipynb) has the LSTM model Trained on sodium coin cell data (Prepared and Generated in Energy Storage Laboratory, IIT ROORKEE)
 - [Data_Analysis_for NASA_Battery_Dataset](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Jupyter_Notebook/Data_Analysis_for%20NASA_Battery_Dataset.ipynb) This notebook has practice EDA performed on Existing universal Dataset Prepared by NASA on Li-ion Battery 18650 cell
