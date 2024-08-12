@@ -1,5 +1,6 @@
 # Li-ion-Battery-Fault-Analysis-Using_Deep_Learning
-- For Compact Overview please Check [Project_Poster](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Work_images/Poster_SPARK_2024.pdf)
+- Overview: [Project_Poster](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Work_images/Poster_SPARK_2024.pdf)
+- Detailed Report: [Project_Report](https://github.com/vardanpopli/Li-ion-Battery-Fault-Analysis/blob/main/Project_Report_Vardan_Popli_2024.pdf)
 
 # Project Summary
 ***Title: Li-ion-Battery-Fault-Analysis-Using_Deep_Learning***
